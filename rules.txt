@@ -1,0 +1,20 @@
+{green}WHAT IS WAR?{reset}                                                                     {green}QU'EST-CE QUE LA BATAILLE ?{reset}
+The goal is to be the first player to win all 52 cards.                          Le but est d'être le premier joueur à gagner les 52 cartes.
+
+{green}THE DEAL:{reset}                                                                        {green}LA DISTRIBUTION DES CARTES:{reset}
+The deck is divided evenly, with each player receiving 26 cards, dealt one       Le jeu est divisé de manière égale, chaque joueur recevant 26 cartes,
+at a time, face down. Anyone may deal first. Each player places their stack      distribuées une à la fois, face cachée. N'importe qui peut traiter en
+of cards face down, in front of them.                                            premier. Chaque joueur place devant lui sa pile de cartes face cachée.
+
+{green}THE PLAY:{reset}                                                                        {green}LE BUT DU JEU:{reset}
+Each player turns up a card at the same time and the player with the higher      Chaque joueur retourne une carte en même temps et le joueur avec la carte la
+card takes both cards and puts them, face down, on the bottom of his stack.      plus haute prend les deux cartes et les place, face cachée, au bas de sa pile.
+
+If the cards are the same rank, it is War. Each player turns up one card         Si les cartes sont du même rang, c'est la bataille. Chaque joueur retourne une
+face down and one card face up. The player with the higher cards takes both      carte face cachée et une carte face visible. Le joueur avec les cartes les plus
+piles (six cards). If the turned-up cards are again the same rank, each          élevées prend les deux piles (six cartes). Si les cartes retournées sont à nouveau
+player places another card face down and turns another card face up. The         du même rang, chaque joueur place une carte face cachée et retourne une carte face
+player with the higher card takes all 10 cards, and so on.                       visible. Le joueur avec la carte la plus élevée prend les 10 cartes, etc.
+                                                                                      
+{green}HOW TO KEEP SCORE?{reset}                                                               {green}COMMENT DÉTERMINER LE GAGNANT ?{reset}
+The game ends when one player has won all the cards.                             Le jeu se termine lorsqu'un joueur a gagné toutes les cartes.
