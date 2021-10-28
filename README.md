@@ -11,3 +11,17 @@ pip install -r requirements.txt
 ```
 python main.py.
 ```
+
+## Preview of the project:
+
+* **Menu:**
+
+![Preview 1](https://github.com/maximedrn/war-card-game/blob/master/images/preview_1.png)
+
+* **Game (1):**
+
+![Preview 2](https://github.com/maximedrn/war-card-game/blob/master/images/preview_2.png)
+
+* **Game (2):**
+
+![Preview 3](https://github.com/maximedrn/war-card-game/blob/master/images/preview_3.png)
