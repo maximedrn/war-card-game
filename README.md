@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 * Then type:
 ```
-python main.py.
+python main.py
 ```
 
 ## Preview of the project:
