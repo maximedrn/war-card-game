@@ -1,8 +1,15 @@
-"""@author: Maxime."""
+"""
+@author: Maxime.
 
+Github: https://github.com/maximedrn
+Version: 1.0
+"""
 
-from colorama import init, Fore, Style, Back  # pip install colorama
-from datetime import datetime
+# Colorama module: pip install colorama
+from colorama import init, Fore as F, Style, Back as B
+
+# Python default import.
+from datetime import datetime as dt
 import random
 import time
 import os
@@ -11,15 +18,15 @@ import re
 
 """Colorama module constants."""
 init()  # Init colorama module.
-red = Fore.RED  # Red color.
-green = Fore.GREEN  # Green color.
-black = Fore.BLACK  # Black color.
-yellow = Fore.YELLOW  # Yellow color.
-magenta = Fore.MAGENTA  # Magenta color.
-red_b = Back.RED  # Red background color.
-cyan_b = Back.CYAN  # Cyan background color.
-white_b = Back.WHITE  # White background color.
-green_b = Back.GREEN  # Green background color.
+red = F.RED  # Red color.
+green = F.GREEN  # Green color.
+black = F.BLACK  # Black color.
+yellow = F.YELLOW  # Yellow color.
+magenta = F.MAGENTA  # Magenta color.
+red_b = B.RED  # Red background color.
+cyan_b = B.CYAN  # Cyan background color.
+white_b = B.WHITE  # White background color.
+green_b = B.GREEN  # Green background color.
 reset = Style.RESET_ALL  # Reset color attribute.
 
 """Indents constants."""
@@ -143,7 +150,7 @@ class War:
 
     def save_results(self, winner: str, round: int) -> None:
         """Save results in scoreboard.txt."""
-        now = datetime.now()  # Get actual date time.
+        now = dt.now()  # Get actual date time.
         with open('scoreboard.txt', 'r+', encoding='utf-8') as file:
             winners = file.read().split('\n')  # Read each line an make a list.
             number = winners[len(winners) - 1]  # Get last score.
